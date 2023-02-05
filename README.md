@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=1&pause=500&color=1A35B1&background=FF000000&width=435&lines=Rafael+Mainart)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=10000&pause=500&color=1A35B1&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Seja+Bem-vindo+!+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=1A35B1&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Seja+Bem-vindo+!+!)](https://git.io/typing-svg)
 
 ## 
 Atualmente evoluindo em: 
