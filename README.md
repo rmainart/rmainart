@@ -24,7 +24,7 @@ Proximos estudos:
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmainart&show_icons=true&theme=merko)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmainart&layout=compact&theme=merko)](https://github.com/rmainart/github-readme-stats)
 
 
 ##
